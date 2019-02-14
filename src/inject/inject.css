@@ -1,0 +1,31 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+ .helpScreen {
+   display: none;
+ }
+
+ #mainHelp {
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+   height: auto;
+   color: white;
+   background: black;
+   margin: auto;
+   padding-right: 2em;
+   z-index: 10;
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+ }
+
+ #mainHelp ul li {
+  list-style: none;
+ }
+ 
+ #help {
+  font-size: 1.1em;
+  padding-left: 1em;
+ }
