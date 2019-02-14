@@ -4,7 +4,7 @@ vim overlay chrome extension
 Quick keyboard navigation for any website. 
 
 ## Hotkeys
-+ Shift + /: VIM hotkey guide**
++ **Shift + /: VIM hotkey guide**
 + j: scroll down
 + k: scroll up
 + d: page down
