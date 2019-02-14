@@ -3,7 +3,7 @@
   "version": "1.0",
   "manifest_version": 2,
   "description": "Create a VIM hotkey overlay for webpage navigation",
-  "homepage_url": "http://github.com",
+  "homepage_url": "https://yudataguy.github.io/vim-overlay-chrome/",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
