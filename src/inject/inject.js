@@ -29,7 +29,7 @@ document.getElementsByTagName('body')[0].addEventListener('keydown', event => {
 	 // You could also use an array
 	map[event.keyCode] = event.type == 'keydown';
 	/* insert conditional here */
-	console.log(map)
+	// console.log(map)
 	
 	if (vim || (map[191] && map[91])){
 		if (event.keyCode === 74){ // J
